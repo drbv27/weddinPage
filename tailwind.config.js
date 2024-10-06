@@ -10,6 +10,7 @@ export default {
         'sans': ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'sans-serif'],
         'dancingscript':["Dancing Script", 'cursive'],
         'updock':["Updock", 'cursive'],
+        'rufina':["Rufina",'serif'],
         'pacifico':["Pacifico", 'cursive'],
       }
     },
